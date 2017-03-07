@@ -1,0 +1,1 @@
+hadoop distcp hdfs://172.31.0.164/sebastiankramp/teragen1 hdfs://54.202.230.6/sebastiankramp/teragen1/
