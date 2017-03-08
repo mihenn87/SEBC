@@ -10,7 +10,8 @@
     "clusterName" : "cluster",
     "serviceName" : "hive"
   }
-}```
+}
+```
 
 ## start
 
@@ -24,7 +25,8 @@
     "clusterName" : "cluster",
     "serviceName" : "hive"
   }
-}```
+}
+```
 
 ## state
 
@@ -46,4 +48,5 @@
     "summary" : "DISABLED"
   } ],
   "configStale" : false
-}```
+}
+```
