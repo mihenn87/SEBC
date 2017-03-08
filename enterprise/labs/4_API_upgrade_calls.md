@@ -1,7 +1,9 @@
 ## API Version
 
-[root@ip-172-31-7-126 ~]# curl -u mihenn87:cloudera 'http://localhost:7180/api/version'
-v15  
+[root@ip-172-31-7-126 ~]# curl -u mihenn87:cloudera 'http://localhost:7180/api/version'  
+```json
+v15
+```
 
 ## CM Version
 
