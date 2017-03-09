@@ -1,18 +1,18 @@
 ﻿#vm-swappiness
 
-[root@ip-172-31-4-130 ec2-user]# cat /proc/sys/vm/swappiness
+[root@ip-172-31-4-130 ec2-user]# cat /proc/sys/vm/swappiness  
 1
 
-[root@ip-172-31-4-23 ec2-user]# cat /proc/sys/vm/swappiness
+[root@ip-172-31-4-23 ec2-user]# cat /proc/sys/vm/swappiness  
 1
 
-[root@ip-172-31-11-113 ec2-user]# cat /proc/sys/vm/swappiness
+[root@ip-172-31-11-113 ec2-user]# cat /proc/sys/vm/swappiness  
 1
 
-[root@ip-172-31-3-32 ec2-user]# cat /proc/sys/vm/swappiness
+[root@ip-172-31-3-32 ec2-user]# cat /proc/sys/vm/swappiness  
 1
 
-[root@ip-172-31-7-126 ~]# cat /proc/sys/vm/swappiness
+[root@ip-172-31-7-126 ~]# cat /proc/sys/vm/swappiness  
 1
 
 #mount
