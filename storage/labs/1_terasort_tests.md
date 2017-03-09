@@ -1,3 +1,5 @@
+```bash
+
 [hdfs@ip-172-31-7-126 ec2-user]$ hadoop jar /opt/cloudera/parcels/CDH/lib/hadoop-mapreduce/hadoop-mapreduce-examples.jar teragen -D dfs.block.size=33554432 -D mapred.map.tasks=4 10000000 /mihenn87/teragen2
 17/03/07 07:27:35 INFO client.RMProxy: Connecting to ResourceManager at ip-172-31-11-113.us-west-2.compute.internal/172.31.11.113:8032
 17/03/07 07:27:36 INFO terasort.TeraSort: Generating 10000000 using 4
@@ -137,3 +139,6 @@ Spent 896ms computing partitions.
         File Output Format Counters
                 Bytes Written=1000000000
 17/03/07 07:35:12 INFO terasort.TeraSort: done
+
+
+```
