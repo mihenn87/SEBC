@@ -1,4 +1,4 @@
-´´´bash
+```bash
 ##mysql> show slave status\G
 *************************** 1. row ***************************
                Slave_IO_State:
