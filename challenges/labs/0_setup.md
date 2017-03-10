@@ -3,11 +3,11 @@ AWS
 
 ## Node IPs
 ```bash
-172.31.5.58     ip-172-31-5-58.eu-central-1.compute.internal    node1  
-172.31.2.93     ip-172-31-2-93.eu-central-1.compute.internal    node2  
-172.31.6.22     ip-172-31-6-22.eu-central-1.compute.internal    node3  
-172.31.2.86     ip-172-31-2-86.eu-central-1.compute.internal    node4  
-172.31.4.147    ip-172-31-4-147.eu-central-1.compute.internal   node5  
+172.31.4.147    ip-172-31-4-147.eu-central-1.compute.internal
+172.31.2.93     ip-172-31-2-93.eu-central-1.compute.internal
+172.31.5.58     ip-172-31-5-58.eu-central-1.compute.internal   
+172.31.6.22     ip-172-31-6-22.eu-central-1.compute.internal
+172.31.2.86     ip-172-31-2-86.eu-central-1.compute.internal   
 ```
 
 ## Linux Release
