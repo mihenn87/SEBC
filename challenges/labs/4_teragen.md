@@ -1,5 +1,5 @@
 ## Teragen
-
+```
 [neymar@ip-172-31-2-93 ec2-user]$ hadoop jar /opt/cloudera/parcels/CDH/lib/hadoop-mapreduce/hadoop-mapreduce-examples.jar teragen -D dfs.block.size=16777216 -D mapred.map.tasks=4 65536000 /user/neymar/tgen640-2
 17/03/10 05:48:17 INFO client.RMProxy: Connecting to ResourceManager at ip-172-31-2-86.eu-central-1.compute.internal/172.31.2.86:8032
 17/03/10 05:48:17 INFO terasort.TeraSort: Generating 65536000 using 4
@@ -114,12 +114,8 @@
         File Output Format Counters
                 Bytes Written=6553600000
 
-
-
 ```
-
 ## ls
-
 ```
 [neymar@ip-172-31-2-93 ec2-user]$ hdfs dfs -ls /user/neymar/tgen640-2
 Found 5 items
@@ -128,5 +124,4 @@ Found 5 items
 -rw-r--r--   3 neymar hadoop 1638400000 2017-03-10 05:52 /user/neymar/tgen640-2/part-m-00001
 -rw-r--r--   3 neymar hadoop 1638400000 2017-03-10 05:52 /user/neymar/tgen640-2/part-m-00002
 -rw-r--r--   3 neymar hadoop 1638400000 2017-03-10 05:51 /user/neymar/tgen640-2/part-m-00003
-
 ```
